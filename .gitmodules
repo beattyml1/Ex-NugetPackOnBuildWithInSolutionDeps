@@ -1,0 +1,3 @@
+[submodule "Common"]
+	path = Common
+	url = https://github.com/beattyml1/Ex-NugetStuff-Common.git

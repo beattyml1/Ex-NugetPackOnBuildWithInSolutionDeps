@@ -4,3 +4,9 @@
 [submodule "Web"]
 	path = Web
 	url = https://github.com/beattyml1/Ex-NugetStuff-Web.git
+[submodule "DevConfig"]
+	path = DevConfig
+	url = https://github.com/beattyml1/Ex-NugetStuff-DevConfig.git
+[submodule "DevEnvironments"]
+	path = DevEnvironments
+	url = https://github.com/beattyml1/Ex-NugetStuff-DevEnvironments.git

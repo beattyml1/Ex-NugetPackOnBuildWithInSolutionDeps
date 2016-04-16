@@ -10,3 +10,6 @@
 [submodule "DevEnvironments"]
 	path = DevEnvironments
 	url = https://github.com/beattyml1/Ex-NugetStuff-DevEnvironments.git
+[submodule "BuildUtils"]
+	path = BuildUtils
+	url = https://github.com/beattyml1/Ex-Nuget-Stuff-BuildUtils.git

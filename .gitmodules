@@ -13,3 +13,6 @@
 [submodule "BuildUtils"]
 	path = BuildUtils
 	url = https://github.com/beattyml1/Ex-Nuget-Stuff-BuildUtils.git
+[submodule "TeamConfig"]
+	path = TeamConfig
+	url = https://github.com/beattyml1/Ex-NugetStuff-TeamSettings.git
